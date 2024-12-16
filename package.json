@@ -1,0 +1,19 @@
+{
+  "name": "css-module-classes",
+  "version": "1.0.0",
+  "description": "A library to merge both original class names and transformed class names from css module",
+  "type": "module",
+  "types": "index.d.ts",
+  "module": "index.js",
+  "keywords": ["css", "css module", "css class"],
+  "author": "niuiic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niuiic/css-module-classes.git"
+  },
+  "homepage": "https://github.com/niuiic/css-module-classes.git",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
