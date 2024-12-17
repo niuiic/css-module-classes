@@ -1,4 +1,4 @@
-# css-module-classes
+# css-module-classes ![npm](https://img.shields.io/npm/v/css-module-classes.svg)
 
 In CSS Module, all selectors are transformed, meaning that parent components cannot know the class names of child components. As a result, they cannot directly set styles across levels and have to instead control child component styles by passing props, which leads to coupling between styles and logic.
 
